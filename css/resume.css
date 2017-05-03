@@ -1,0 +1,30 @@
+h1 {
+  font-size: 52px;
+  color: #e814e1;
+  font-weight: bolder;
+}
+
+.name {
+  border-bottom: solid;
+  font-style: italic;
+  color: green;
+  text-align: center;
+}
+
+.intro {
+  font-weight: bolder;
+  font-stretch: extra-condensed;
+  color:gray;
+  font-size: 22px;
+  border-bottom: solid;
+  color: purple;
+}
+
+.skills{
+  font-family: fantasy;
+  font-stretch: normal;
+  color: brown;
+  width: 300px;
+  float: right;
+  background-color: purple;
+}
